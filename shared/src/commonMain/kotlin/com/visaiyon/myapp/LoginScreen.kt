@@ -51,7 +51,7 @@ fun LoginScreen(onLoginSuccess: () -> Unit) {
                 modifier = Modifier.padding(bottom = 16.dp)
             )
         }
-//Test Line // Text Line 2  //Text Line3
+//Test Line // Text Line 2  //Text Line3   // Test Line 4 from newbranch2
         Button(
             onClick = {
                 if (username.isNotEmpty() && password.isNotEmpty()) {
